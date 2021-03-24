@@ -8,8 +8,8 @@ spec:
    app: myngix
  template:
    metadata:
-   labels:
-     app: myngix
+     labels:
+       app: myngix
    spec:
       containers:
       - name: mynginxcontainer
